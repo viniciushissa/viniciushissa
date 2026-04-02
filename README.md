@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vinícius
 
-🎓 Computer Science Student  
-📍 Brazil  
+🎓 Computer Science Student at Universidade Estadual do Norte Fluminense Darcy Riveiro (UENF)
+📍 Rio de Janeiro, Brazil  
 💡 Passionate about Software Engineering, Data Analysis, Data Science, Machine Learning, and Problem Solving  
 
 ---
