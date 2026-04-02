@@ -46,6 +46,8 @@ Currently, I am focused on developing both **theoretical foundations** and **pra
 - PostgreSQL
 - Docker
 
+---
+
 ## ⚡ Philosophy
 
 > Consistency and discipline compound over time into excellence.
