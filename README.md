@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vinícius
 
-🎓 Computer Science Student at Universidade Estadual do Norte Fluminense Darcy Riveiro (UENF)
+🎓 Computer Science Student at Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF)   
 📍 Rio de Janeiro, Brazil  
 💡 Passionate about Software Engineering, Data Analysis, Data Science, Machine Learning, and Problem Solving  
 
@@ -27,9 +27,9 @@ Currently, I am focused on developing both **theoretical foundations** and **pra
 ## 🛠️ Tech Stack
 
 **Languages:**
-- Python
-- SQL
-- Ruby
+- Python  
+- SQL  
+- Ruby  
 - C
 
 **Libraries & Tools:**
