@@ -1,25 +1,51 @@
-<h2 align="left">Vinícius Hissa</h2>
+# 👋 Hello, I'm Vinícius
 
-###
+🎓 Computer Science Student  
+📍 Brazil  
+💡 Passionate about Software Engineering, Data Analysis, Data Science, Machine Learning, and Problem Solving  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciushissa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciushissa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciushissa&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">Techs:</h2>
+I am a highly driven Computer Science student with a strong interest in **Data Science, Artificial Intelligence, and Algorithms**.
+My academic journey is guided by a deep curiosity for extracting insights from data and building intelligent systems.
+I am constantly striving to evolve, learn, and push my limits, both intellectually and professionally.
+Currently, I am focused on developing both **theoretical foundations** and **practical skills**, aiming to reach excellence in highly competitive fields.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-</div>
+## 🧠 Areas of Interest
 
-###
+- 📊 Data Science & Data Analysis
+- 📈 Statistical Modeling
+- 🤖 Machine Learning & AI
+- 🧮 Backend Software Engineering
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python
+- SQL
+- Ruby
+- C
+
+**Libraries & Tools:**
+- Django
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib / Seaborn / Plotly / Folium
+- Jupyter Notebook  
+
+**Other Tools:**
+- Git & GitHub  
+- Insomnia
+- PostgreSQL
+- Docker
+
+## ⚡ Philosophy
+
+> Consistency and discipline compound over time into excellence.
